@@ -6,4 +6,4 @@ Email: mayronyess15@gmail.com
 ----------Attention----------------
 * El JDialog "Comfirm", no esta terminado, no forma parte del reto 2.
 * Añadi una lista deplegable al JForm "UserMenu", para realizar una consulta de empleados mas especicfica.
-* Añadi de actualizar, para refrescar la tabla.
+* Añadi un boton de actualizar, para refrescar la tabla.
